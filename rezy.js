@@ -28,7 +28,7 @@
       ============================*/
   $(function() {
       $(".typed").typed({
-          strings: ["a1zen$","Zettai wa boku da","dayum you suck","sss ghoul","cheats","100%HS","special grade jujutsu sorcerer","you weak","Espada","u r tryin' so hard","Bankai","haha, kill me"],
+          strings: ["snw666$","Zettai wa boku da","dayum you suck","sss ghoul","cheats","100%HS","special grade jujutsu sorcerer","you weak","Espada","u r tryin' so hard","Bankai","haha, kill me"],
           typeSpeed: 100,
           loop: true,
           cursorChar: "|",
